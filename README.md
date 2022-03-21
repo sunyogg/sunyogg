@@ -2,7 +2,7 @@
 - 👀 I’m interested in Opensource Contribution, Machine learning, Competitive programming, Web Development.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Twitter @_sunyog_
+- 📫 How to reach me: Twitter: https://twitter.com/_sunyog_
 
 <!---
 SUNY0G/SUNY0G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
