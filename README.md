@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SUNY0G
 - 👀 I’m interested in Opensource Contribution, Machine learning, Competitive programming, Web Development.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java | Python✅
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Twitter: https://twitter.com/_sunyog_
 
