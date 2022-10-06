@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SUNY0G
 - 👀 I’m interested in Opensource Contribution, Machine learning, Data Science, Competitive programming, Astronomy.
-- 🌱 I’m currently learning Java | Python✅
+- 🌱 I’m currently learning Java, GitHub | Python✅
 - 💞️ I’m looking to collaborate on simple(beginner) python projects.
 - 📫 How to reach me: Twitter: https://twitter.com/_sunyog_
 
